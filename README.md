@@ -1,5 +1,8 @@
 # Ex01 Portfolio
-## Date: 30.10.2026
+## Date: 18.11.2026
+
+## NAME : DHARUN ARULSELVAN
+## REG : 212224220024
 
 ## AIM
 To create a Portfolio using HTML and CSS.
